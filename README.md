@@ -60,3 +60,6 @@ Como Beneficio se encuentra el poder disminuir la cantidad de errores humanos, a
 # Captura: Diego Alessandro Leal Cardona
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31208155-3a3e-45f1-bc4a-4f84b85dc5df" />
 
+
+![Captura](Screenshot_2026-04-21-21-54-51-343_com.android.chrome.jpg)
+
