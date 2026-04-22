@@ -13,6 +13,47 @@ Si no se corrige este problema, el rendimiento general del proyecto continuará 
 # Evidencia 
 -En multiples empresas se a logrado observar como un sistema de base de datos que mantenga el control de forma sistematisada y virtual, ya que al contar con registros en papel estos tienden a perderse, o incluso se pueden dañar de forma irreparable. Esto por el contrario con un sistema digital nos permite hacer un respaldo de todo y no generara malinterpretaciones, o al momento de que se soliciten datos por dos personas distntas al mismo momento no se genere una confusión que afecte de forma considerable el trabajo.
 
+# Soluciones 
+1.	Guardar la información en un sistema digital:
+En lugar de usar papel o archivos desordenados, la empresa debe usar un sistema donde toda la información esté guardada en un mismo lugar. Esto evita que los documentos se pierdan o se dañen.
+
+2.	Organizar bien la información
+No solo es guardar datos, sino tenerlos bien ordenados:
+- Que cada cosa tenga su lugar
+- Evitar repetir información
+- Mantener todo claro y fácil de encontrar de esta manera se evita la confusión y los errores
+
+3.	Evitar errores al ingresar datos:
+El sistema debe ayudar a que las personas no se equivoquen al escribir información.
+Por ejemplo:
+-	No dejar guardar datos incompletos
+-	Revisar que los datos sean correctos
+-	Esto reduce mucho los errores humanos
+
+4.	Automatizar tareas repetitivas:
+Algunas tareas se pueden hacer automáticamente, como:
+- Crear reportes
+- Guardar información
+- Actualizar datos
+  
+Esto ahorra tiempo y evita errores por descuido.
+
+5.	Hacer copias de seguridad:
+Siempre debe haber copias de la información guardadas en otro lugar. Así, si algo falla, no se pierde todo.
+
+6.	Controlar quién puede ver o cambiar información:
+No todos deben tener acceso a todo. Para que algunos solo pueden ver y otros pueden editar. Esto evita cambios incorrectos o pérdida de datos.
+
+7.	Capacitar a los empleados:
+Es importante enseñar a las personas cómo usar bien el sistema. Muchas fallas ocurren por no saber usar las herramientas.
+
+8.	Mejorar la rapidez del sistema:
+El sistema debe funcionar rápido para no perder tiempo. Ya que así los trabajadores pueden hacer su trabajo sin retrasos.
+
+9.	Revisar constantemente el sistema:
+De vez en cuando se debe revisar que todo esté funcionando bien. Porque, así se corrigen problemas antes de que sean graves, como darle mantenimiento.
+
+
 # Beneficio
 Como Beneficio se encuentra el poder disminuir la cantidad de errores humanos, a su vez se evita la falta de desinformación que ocurre al transmitir información de persona a persona, a su vez se evitar el riesgo en el cual una persona pueda perder dichos registros que son de suma importancia para una empresa. De forma general se evita el tener una desconfianza ante el proceso de trabajo que se realizara, ya que al implementar este sistema virtualizado se podra confiar de una mejor forma en el guardado de documentos o registros de información de forma correcta. 
 
