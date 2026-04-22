@@ -2,6 +2,7 @@
 
 -Diego Alessandro Leal Cardona 202500586
 -Brandon Augusto Gramajo Paniagua 202504449
+-Kevin Rolando Tujá Quiroa 202431007
 
 ## Problema
 Dentro de las empresas pequeñas y en las cuales no se han virtualizado, se pueden provocar multiples problemas debido a fallos humanos. Estos fallos humanos en su mayoría puede ser insignificantes o pueden afectar de forma muy mesurada en la empresa. Esto puede cambiar cuando estos fallos pueden encadenar una serie de problemas dentro de la empresa que significarían un gran 
