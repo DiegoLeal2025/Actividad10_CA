@@ -5,7 +5,7 @@
 
 ## Problema
 
-Actualmente, la gestión de la base de datos presenta deficiencias que afectan la eficiencia y confiabilidad del sistema. La información se encuentra desorganizada, con posibles duplicidades o falta de datos, inconsistencias y tiempos de respuesta lentos al momento de realizar consultas o generar reportes.
+Actualmente muchas empresas no cuentan con una base de datos, y si la tienen, la gestión de la base de datos presenta deficiencias que afectan la eficiencia y confiabilidad del sistema. La información se encuentra desorganizada, con posibles duplicidades o falta de datos, inconsistencias y tiempos de respuesta lentos al momento de realizar consultas o generar reportes.
 Esta situación incrementa el riesgo de pérdida de datos, errores en la toma de decisiones y retrasos en los procesos operativos. Además, la falta de una estructura optimizada limita la escalabilidad del sistema y dificulta la integración de nuevas funcionalidades.
 Si no se corrige este problema, el rendimiento general del proyecto continuará deteriorándose, impactando directamente la productividad y la experiencia del usuario.
 
