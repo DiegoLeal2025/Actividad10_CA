@@ -11,7 +11,7 @@ Esta situación incrementa el riesgo de pérdida de datos, errores en la toma de
 Si no se corrige este problema, el rendimiento general del proyecto continuará deteriorándose, impactando directamente la productividad y la experiencia del usuario.
 
 # Evidencia 
--En multiples empresas se a logrado observar como un sistema de base de datos que mantenga el control de forma sistematisada y virtual, ya que al contar con registros en papel estos tienden a perderse, o incluso se pueden dañar de forma irreparable. Esto por el contrario con un sistema digital nos permite hacer un respaldo de todo y no generara malinterpretaciones, o al momento de que se soliciten datos por dos personas distntas al mismo momento no se genere una confusión que afecte de forma considerable el trabajo.
+En multiples empresas se a logrado observar como un sistema de base de datos que mantenga el control de forma sistematisada y virtual, ya que al contar con registros en papel estos tienden a perderse, o incluso se pueden dañar de forma irreparable. Esto por el contrario con un sistema digital nos permite hacer un respaldo de todo y no generara malinterpretaciones, o al momento de que se soliciten datos por dos personas distntas al mismo momento no se genere una confusión que afecte de forma considerable el trabajo.
 
 # Soluciones 
 1.	Guardar la información en un sistema digital:
@@ -35,8 +35,8 @@ Algunas tareas se pueden hacer automáticamente, como:
 - Crear reportes
 - Guardar información
 - Actualizar datos
-  
-Esto ahorra tiempo y evita errores por descuido.
+
+  Esto ahorra tiempo y evita errores por descuido.
 
 5.	Hacer copias de seguridad:
 Siempre debe haber copias de la información guardadas en otro lugar. Así, si algo falla, no se pierde todo.
@@ -59,3 +59,4 @@ Como Beneficio se encuentra el poder disminuir la cantidad de errores humanos, a
 
 # Captura: Diego Alessandro Leal Cardona
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31208155-3a3e-45f1-bc4a-4f84b85dc5df" />
+
