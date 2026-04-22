@@ -53,10 +53,10 @@ El sistema debe funcionar rápido para no perder tiempo. Ya que así los trabaja
 9.	Revisar constantemente el sistema:
 De vez en cuando se debe revisar que todo esté funcionando bien. Porque, así se corrigen problemas antes de que sean graves, como darle mantenimiento.
 
-
 # Beneficio
 Como Beneficio se encuentra el poder disminuir la cantidad de errores humanos, a su vez se evita la falta de desinformación que ocurre al transmitir información de persona a persona, a su vez se evitar el riesgo en el cual una persona pueda perder dichos registros que son de suma importancia para una empresa. De forma general se evita el tener una desconfianza ante el proceso de trabajo que se realizara, ya que al implementar este sistema virtualizado se podra confiar de una mejor forma en el guardado de documentos o registros de información de forma correcta. 
 
+----
 # GRUPO 5:
 ## Captura: Diego Alessandro Leal Cardona
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31208155-3a3e-45f1-bc4a-4f84b85dc5df" />
